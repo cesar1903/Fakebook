@@ -1,0 +1,39 @@
+
+    <head>
+        <meta charset="UTF-8">
+        <title> Barney Stinson | Le Fakebook</title>
+        <!--other code -->
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div id="navigation">
+                <h1>Le Fakebook</h1>
+                <p><i>A new way to fake your life</i></p>
+                <br>
+        </div>
+        <div class="main">
+         <h2>User:</h2>
+         <h3>Barney Stinson</h3>
+          <button>add friend</button>
+          <br>
+          <br>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/NeilPatrickHarrisHWOFSept2011.jpg" class="image" width="400" height="400">
+          <br>
+          <br>
+          <b>City:</b>
+          New York
+          <br>
+          <b>Age:</b>
+          34<br>
+          <p><strong>Things I enjoy</strong></p>
+            <ul>
+             <li>Drinking</li>
+             <li>Suits</li>
+             <li>Picking up women</li>
+            </ul>
+        </div>
+       <div class="fixed"> Le Fakebook</div>
+
+    </body>
+</html>
